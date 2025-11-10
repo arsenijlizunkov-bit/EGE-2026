@@ -1,5 +1,7 @@
 # EGE-2026
 
+source: https://kompege.ru/variant?kim=25098973
+
 ## 1
 
 <img width="747" height="591" alt="image" src="https://github.com/user-attachments/assets/e41f8b9f-93f6-4ee1-a3bb-de7efda81e3a" />
