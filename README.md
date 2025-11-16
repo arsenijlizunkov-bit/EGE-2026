@@ -59,6 +59,9 @@ source: https://kompege.ru/variant?kim=25098973
 
 <img width="1507" height="800" alt="изображение" src="https://github.com/user-attachments/assets/32806126-bd78-46e5-a08e-19c5df206989" />
 
-
 **answer**: 876
+
+## 16
+
+**answer**: 26260807145392
 
