@@ -61,6 +61,10 @@ source: https://kompege.ru/variant?kim=25098973
 
 **answer**: 876
 
+## 15
+
+**answer**: 23
+
 ## 16
 
 **answer**: 26260807145392
