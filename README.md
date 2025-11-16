@@ -45,6 +45,10 @@ source: https://kompege.ru/variant?kim=25098973
 
 **answer**: 200
 
+## 9
+
+**answer**: 246
+
 ## 11
 
 <img width="1510" height="771" alt="изображение" src="https://github.com/user-attachments/assets/8c1d2abe-ec73-42db-b901-4a6ad1da955b" />
